@@ -1,2 +1,2 @@
 puts "Bonjour, monde!"
-print "et avec une voix sexy, ça donne : Bonjour, monde!" 
+puts "et avec une voix sexy, ça donne : Bonjour, monde!" 
